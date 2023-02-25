@@ -1,0 +1,44 @@
+{
+  meta: {
+    req: {
+      url: '/error',
+      headers: {
+        'user-agent': 'vscode-restclient',
+        'accept-encoding': 'gzip, deflate',
+        host: 'localhost:8000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/error',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 3
+  },
+  level: 'error',
+  message: 'HTTP GET /error',
+  timestamp: '2023-02-01T09:36:19.430Z'
+}
+{
+  meta: {
+    req: {
+      url: '/warn',
+      headers: {
+        'user-agent': 'vscode-restclient',
+        'accept-encoding': 'gzip, deflate',
+        host: 'localhost:8000',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/warn',
+      query: {}
+    },
+    res: { statusCode: 400 },
+    responseTime: 1
+  },
+  level: 'warn',
+  message: 'HTTP GET /warn',
+  timestamp: '2023-02-01T09:36:39.503Z'
+}

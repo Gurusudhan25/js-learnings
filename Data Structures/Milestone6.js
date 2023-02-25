@@ -1,6 +1,6 @@
 /*Mutable and Immutable Objects
  *Primitive and reference data types
- * Dynamic properies
+ * Dynamic properties of object
  * Copying values
  * Argument passing and determining type
  */

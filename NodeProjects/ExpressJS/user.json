@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Nirmal",
+      "age": 23,
+      "id": "3f1dd2b0-660c-4cc9-b04f-32a8a55084ee"
+    },
+    {
+      "name": "Gurusudhan",
+      "age": 23,
+      "id": "fb42fda3-508f-4957-8427-e7fbe1f48d2b"
+    },
+    {
+      "name": "Gurusudhan",
+      "age": 23,
+      "id": "e7fb1fa0-9394-4257-a025-fb2998f9e110"
+    }
+  ]
+}

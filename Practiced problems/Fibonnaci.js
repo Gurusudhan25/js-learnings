@@ -10,7 +10,7 @@ function fibonnaciOf(n) {
   }
   return fibArr.join(" ");
 }
-console.log(fibonnaciOf(n)); //the timw complexity will be 0(n)
+console.log(fibonnaciOf(n)); //the timw complexity will be O(n)
 
 //This is recursive fibonacci series return nth fibonaaci number 
 function fibonacciRecur(n) {

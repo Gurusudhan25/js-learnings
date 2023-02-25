@@ -37,9 +37,9 @@ const WordCheck =(grid, row, col, word, direction) => {
           if (word[x++] != grid[a][b]) return false;
           else count++;
         }
-        if (count == length) return true;
-        else return false;
-  
+        // if (count == length) return true;
+        // else return false;
+      return count == length;  
       case direction == 2:
         for (
           let a = row, b = col;
